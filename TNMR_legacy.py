@@ -1,3 +1,9 @@
+# @TODO
+# Move parameter loading to external files
+# integrate into Mercury_control to allow access to Temp and field values
+# Write up field sweep sequences
+
+
 # Communication with windows API devices
 import comtypes
 from comtypes.client import CreateObject
